@@ -8,10 +8,6 @@ public class Main {
 
         Integer weight = 55;
 
-        String a="ии";
-    }
-    public void newMetod(){
-        System.out.println();
-        System.out.println("Привет");
+        Long aa=2l;
     }
 }
