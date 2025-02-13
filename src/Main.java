@@ -5,5 +5,7 @@ public class Main {
         String name="Mike";
 
         Integer age=10;
+
+        Integer weight=55;
     }
 }
