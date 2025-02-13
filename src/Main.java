@@ -8,7 +8,7 @@ public class Main {
 
         Integer weight = 55;
 
-        String a="aa";
+        String a="ии";
     }
     public void newMetod(){
         System.out.println();
