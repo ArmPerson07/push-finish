@@ -10,4 +10,7 @@ public class Main {
 
         String a="aa";
     }
+    public void newMetod(){
+        System.out.println();
+    }
 }
