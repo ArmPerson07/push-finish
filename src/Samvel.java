@@ -1,4 +1,6 @@
 public interface Samvel {
 
-    public void calculate();
+    public void calculate(int a);
+
+
 }
