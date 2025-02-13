@@ -7,5 +7,7 @@ public class Main {
         Integer age = 10;
 
         Integer weight = 55;
+
+        String a="aa";
     }
 }
