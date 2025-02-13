@@ -9,5 +9,7 @@ public class Main {
         Integer weight = 55;
 
         Long aa=2l;
+
+        Long a1=12;
     }
 }
