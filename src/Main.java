@@ -12,5 +12,6 @@ public class Main {
     }
     public void newMetod(){
         System.out.println();
+        System.out.println("Привет");
     }
 }
